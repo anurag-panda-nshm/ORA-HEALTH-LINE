@@ -1,0 +1,6 @@
+{
+  "name": "ORA Health Line - Dental & Laser Clinic",
+  "description": "Next-generation dentistry and bloodless laser surgery by Dr. Kuntal Nayak (BDS, MDS Kolkata, Reg: 4565-A). Simlapal, Panchmura, Raipur, and Laxmisagar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
